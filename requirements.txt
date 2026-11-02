@@ -1,0 +1,6 @@
+torch
+numpy
+pybind11
+ezgatr
+pytest
+matplotlib
