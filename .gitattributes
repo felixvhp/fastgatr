@@ -1,0 +1,3 @@
+# Notebooks and generated plots are documentation, not the project language
+*.ipynb linguist-documentation
+python/tools/plots/** linguist-documentation
